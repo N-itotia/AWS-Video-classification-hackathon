@@ -1,0 +1,8 @@
+lightning-flash[audio,video]
+matplotlib
+opencv-python
+boto3
+pandas
+requests
+submitit
+pytorch-lightning == 1.5.10
